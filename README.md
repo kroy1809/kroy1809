@@ -1,3 +1,7 @@
+[![linkedin badge](https://img.shields.io/badge/linkedin-roykuntal-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/roykuntal/)
+[![twitter badge](https://img.shields.io/badge/twitter-@kroy1809-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/kroy_1809)
+[![blog badge](https://img.shields.io/badge/personalwebsite-kroy1809.github.io-1f425f?style=flat-square)](https://kroy1809.github.io/me)
+
 ### Hi there 👋
 
 <!--
