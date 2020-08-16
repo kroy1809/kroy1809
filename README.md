@@ -1,7 +1,10 @@
 ### Hi there, I'm Kuntal 👋
 
-I am a master's graduate student at The Ohio State University. I am actively looking for full-time opportunities as a Software Engineer!
+I am a master's graduate student at The Ohio State University. I solve problems with code, improving myself one line of code at a time!
 
+### I am actively looking for full-time opportunities as a Software Engineer!
+
+/github/followers/:kroy1809?label=Follow
 
 You can reach me at: <br>
 [![linkedin badge](https://img.shields.io/badge/linkedin-roykuntal-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/roykuntal/)
