@@ -8,8 +8,6 @@ I am a master's graduate student at The Ohio State University. I solve problems 
 
 You can reach me at: <br>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="roykuntal"><a class="LI-simple-link" href='https://www.linkedin.com/in/roykuntal?trk=profile-badge'>Kuntal Roy</a></div>
-
 [![linkedin badge](https://img.shields.io/badge/linkedin-roykuntal-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/roykuntal/)<br>
 [![twitter badge](https://img.shields.io/twitter/follow/kroy_1809?label=Follow&style=social)](https://twitter.com/kroy_1809)<br>
 [![blog badge](https://img.shields.io/badge/portfolio-kuntalroy.me-1f425f?style=flat-square)](http://www.kuntalroy.me)<br>
