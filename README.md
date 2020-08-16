@@ -1,4 +1,4 @@
-### Hi there, I'm Kuntal 👋
+## Hi there, I'm Kuntal 👋
 
 I am a master's graduate student at The Ohio State University. I solve problems with code, improving myself one line of code at a time!
 
