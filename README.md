@@ -1,7 +1,5 @@
 ## Hi there, I'm Kuntal 👋
 
-I am a master's graduate student at The Ohio State University. I solve problems with code, improving myself one line of code at a time!
-
 You can reach me at: <br>
 
 [![twitter badge](https://img.shields.io/twitter/follow/kroy_1809?label=Follow&style=social)](https://twitter.com/kroy_1809)<br>
